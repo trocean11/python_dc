@@ -11,3 +11,7 @@
 #### [Цикл while (продолжение).](https://github.com/trocean11/python_dc/blob/main/while&methods.ipynb)
 
 #### [Цикл for. Списки и кортежи. Списковые включения. Функция map().](https://github.com/trocean11/python_dc/blob/main/for&lists.ipynb)
+
+### Дополнительно:
+
+#### [Задача с семинара от 30.11]()
