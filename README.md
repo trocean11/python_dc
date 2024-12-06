@@ -14,4 +14,4 @@
 
 ### Дополнительно:
 
-#### [Задача с семинара от 30.11]()
+#### [Задача с семинара от 30.11](https://github.com/trocean11/python_dc/blob/main/tasks/task.ipynb)
