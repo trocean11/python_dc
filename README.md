@@ -4,9 +4,9 @@
 
 #### [Основные типы данных. Создание переменных. Основные ошибки.](https://github.com/trocean11/python_dc/blob/main/types.ipynb)
 
-#### [Условные конструкции.](https://github.com/trocean11/python_dc/blob/main/if_else.ipynb)
+#### [Логический тип данных. Условные конструкции.](https://github.com/trocean11/python_dc/blob/main/if_else.ipynb)
 
-#### [Цикл while.](https://github.com/trocean11/python_dc/blob/main/while.ipynb)
+#### [Цикл while. Операторы break и continue. Использование else в цикле.](https://github.com/trocean11/python_dc/blob/main/while.ipynb)
 
 #### [Цикл while (продолжение).](https://github.com/trocean11/python_dc/blob/main/while&methods.ipynb)
 
