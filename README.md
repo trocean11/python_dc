@@ -12,6 +12,8 @@
 
 #### [Цикл for. Списки и кортежи. Списковые включения. Функция map().](https://github.com/trocean11/python_dc/blob/main/for&lists.ipynb)
 
+#### [Множества и словари.](https://github.com/trocean11/python_dc/blob/main/sets&dicts.ipynb)
+
 ### Дополнительно:
 
 #### [Задача с семинара от 30.11](https://github.com/trocean11/python_dc/blob/main/tasks/task.ipynb)
