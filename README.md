@@ -16,4 +16,4 @@
 
 ### Дополнительно:
 
-#### [Задача с семинара от 30.11](https://github.com/trocean11/python_dc/blob/main/tasks/task.ipynb)
+#### [Задача с семинара от 30.11](https://github.com/trocean11/python_dc/blob/main/tasks/task%20(2).ipynb)
