@@ -16,7 +16,7 @@
 
 #### [Функции.](https://github.com/trocean11/python_dc/blob/main/functions.ipynb)
 
-#### [Работа с файлами. Библиотека pandas.](https://github.com/trocean11/python_dc/blob/main/files.ipynb)
+#### [Работа с файлами. Библиотека pandas.](https://github.com/trocean11/python_dc/blob/main/files_(2).ipynb)
 
 ### Дополнительно:
 
