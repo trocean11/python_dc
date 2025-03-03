@@ -18,7 +18,7 @@
 
 #### [Работа с файлами. Библиотека pandas.](https://github.com/trocean11/python_dc/blob/main/files_(2).ipynb)
 
-#### [Предобработка текста.](https://github.com/trocean11/python_dc/blob/main/preprocessing.ipynb)
+#### [Предобработка текста.](https://github.com/trocean11/python_dc/blob/main/preprocessing_(1).ipynb)
 
 ### Дополнительно:
 
