@@ -20,6 +20,8 @@
 
 #### [Предобработка текста.](https://github.com/trocean11/python_dc/blob/main/preprocessing_(1).ipynb)
 
+#### [Анализ тональности.](https://github.com/trocean11/python_dc/blob/main/NLP_02_01.ipynb)
+
 ### Дополнительно:
 
 #### [Задача с семинара от 30.11](https://github.com/trocean11/python_dc/blob/main/tasks/task%20(2).ipynb)
