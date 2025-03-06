@@ -24,7 +24,7 @@
 
 #### [Регулярные выражения.](https://github.com/trocean11/python_dc/blob/main/regexps.ipynb)
 
-#### [Тематическое моделирование.](https://github.com/trocean11/python_dc/blob/main/LDA_%D0%91%D0%B5%D0%BB%D0%B0%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.ipynb)
+#### [Тематическое моделирование.](https://github.com/trocean11/python_dc/blob/main/NLTK_Topic_modeling.ipynb)
 
 #### [Визуализация + анализ тональности + частотный анализ](https://github.com/trocean11/python_dc/blob/main/Word_count.ipynb)
 
