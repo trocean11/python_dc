@@ -33,3 +33,5 @@
 #### [Задача с семинара от 30.11](https://github.com/trocean11/python_dc/blob/main/tasks/task%20(2).ipynb)
 
 #### [Решения демоверсии КР](https://github.com/trocean11/python_dc/blob/main/tasks/%D0%94%D0%B5%D0%BC%D0%BE%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F_%D0%9A%D0%A0.ipynb)
+
+#### [Что такое обработка текстовых данных](https://education.yandex.ru/handbook/data-analysis/article/tekstovye-dannye-i-sposoby-ih-obrabotki)
