@@ -26,7 +26,7 @@
 
 #### [Тематическое моделирование.](https://github.com/trocean11/python_dc/blob/main/NLTK_Topic_modeling.ipynb)
 
-#### [Визуализация + анализ тональности + частотный анализ](https://github.com/trocean11/python_dc/blob/main/Word count.ipynb)
+#### [Визуализация + анализ тональности + частотный анализ](https://github.com/trocean11/python_dc/blob/main/Word_count.ipynb)
 
 ### Дополнительно:
 
