@@ -37,3 +37,5 @@
 #### [Что такое обработка текстовых данных](https://education.yandex.ru/handbook/data-analysis/article/tekstovye-dannye-i-sposoby-ih-obrabotki)
 
 #### [Курс NLP FOR YOU](https://lena-voita.github.io/nlp_course.html)
+
+#### [Задания из Тренировочного варианта 1](https://github.com/trocean11/python_dc/blob/main/%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BA_%D0%BD%D1%8D.ipynb)
